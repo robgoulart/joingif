@@ -16,13 +16,11 @@
 
 ## Flags
 ```console
-  -h, --help            Show this help message and exit
+  -h, --help            Show this help message and exit.
   
-  -fps, --fps           Frames per second of the GIF                   
+  -fps, --fps           Frames per second of the GIF.                   
 
-  -f, --filename        The full path folder where the .gif file will be saved
+  -f, --filename        The full path folder where the .gif file will be saved.
   
   -p, --path            The full path folder where the .png files will be saved. 
-                        Ex.:/usr/temp/ Note that if a path is informed without bar at the end, the last word will be a file prefix. 
-                        Ex.: /usr/temp files will be saved at /usr with names temp1.png, temp2.png and so on.
-```
+                        
