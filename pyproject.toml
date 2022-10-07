@@ -1,0 +1,9 @@
+[project]
+name = "joingif"
+version = "0.0.1"
+author= "Roberto Goulart"
+dynamic = ["dependencies"]
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+[project.scripts]
+cli-name = "join_gif.joingif:execute"
