@@ -8,7 +8,7 @@
 
 ## Usage
 ```console
- $ python joingif -p 20 -p '/usr/temp/' -fps 60 -f '/usr/temp/file.gif' 
+ $ python joingif.py -p 20 -p '/usr/temp/' -fps 60 -f '/usr/temp/file.gif' 
 ```
 
 ## Flags
