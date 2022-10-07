@@ -8,10 +8,7 @@
 
 ## Usage
 ```console
- $ python screencap -d 20 -p /usr/temp/
-
-
- $ python screencap -d 30 -p /usr/temp/ -ar "(320, 2240)" "(0, 1080)"
+ $ python joingif -p 20 -p '/usr/temp/' -fps 60 -f '/usr/temp/file.gif' 
 ```
 
 ## Flags
